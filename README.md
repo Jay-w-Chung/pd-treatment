@@ -1,7 +1,7 @@
 # Parkinson’s Disease Treatment Landscape (2024–2025)
 
 ## 📌 프로젝트 개요
-이 프로젝트는 **Parkinson’s Disease (PD) 치료제 시장 Landscape 분석 (2024–2025)**을 정리한 포트폴리오입니다.  
+**Parkinson’s Disease (PD) 치료제 시장 Landscape 분석 (2024–2025)** 
 주요 목적은 **데이터 수집 → 구조화 → 시각화 → 인사이트 도출**의 전 과정을 직접 수행하여  
 헬스케어 시장 분석 역량과 데이터 기반 스토리텔링 능력을 보여주는 것입니다.  
 
@@ -16,7 +16,6 @@
 ---
 
 ## 📑 분석 구조
-프로젝트는 다음과 같은 카테고리로 구성됩니다:
 
 1. **Market Overview**
    - 글로벌 PD 치료제 시장 규모 ($5–6B, CAGR ~4%)  
